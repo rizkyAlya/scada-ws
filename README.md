@@ -96,3 +96,4 @@ pada terminal.
 
 * Pastikan port server tidak digunakan oleh aplikasi lain.
 * Pastikan konfigurasi database sudah sesuai pada file `db_connect.php`.
+* Pastikan server MySQL telah berjalan.
